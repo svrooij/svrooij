@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a new secret project
+- 🤔 I’m looking for help with [node-sonos-ts](https://github.com/svrooij/node-sonos-ts)
+- :floppy_disk: I used to blog [here](https://svrooij.nl)
+- :notebook: Then switched to [svrooij.io](https://svrooij.io)
+- 💬 Ask me about **home-automation** / **c#** / **Typescript**
+- 📫 How to reach me: something `at` new blog domain
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm Dutch, but I don't like cheese
