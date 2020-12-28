@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a new secret project
 - 🤔 I’m looking for help with [node-sonos-ts](https://github.com/svrooij/node-sonos-ts)
 - :floppy_disk: I used to blog [here](https://svrooij.nl)
 - :notebook: Then switched to [svrooij.io](https://svrooij.io)
