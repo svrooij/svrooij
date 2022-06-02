@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Dotnet-feeder
-        uses: svrooij/dotnet-feeder@initial-version
+        uses: svrooij/dotnet-feeder@v1
         with:
           feed: https://svrooij.io/feed.json
           files: ./README.md
