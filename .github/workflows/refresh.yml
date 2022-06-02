@@ -1,0 +1,23 @@
+on:
+  # schedule:
+  #   - cron: '45 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      content: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Dotnet-feeder
+        uses: svrooij/dotnet-feeder/feed@initial-release
+        with:
+          feed: https://svrooij.io/feed.json
+          files: ./README.md
+      - name: Scripts
+        run: |
+          git status
+          cat ./README.md
+

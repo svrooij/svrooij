@@ -1,24 +1,19 @@
-### Hi there 👋
+## Hi there 👋 I'm Stephan
 
 <!--
-**svrooij/svrooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**svrooij/svrooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile https://github.com/svrooij/.
 -->
 
 - 🤔 I’m looking for help with [node-sonos-ts](https://github.com/svrooij/node-sonos-ts)
-- :floppy_disk: I used to blog [here](https://svrooij.nl)
-- :notebook: Then switched to [svrooij.io](https://svrooij.io)
+- :notebook: I blog at [svrooij.io](https://svrooij.io)
 - 💬 Ask me about **home-automation** / **c#** / **Typescript**
-- 📫 How to reach me: something `at` new blog domain
+- 📫 How to reach me: something `at` blog domain
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm Dutch, but I don't like cheese
+
+## Recent blog posts
+
+<!-- start posts -->
+<!-- end posts -->
+
+These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
