@@ -1,4 +1,4 @@
-[![Social banner for svrooij](https://github.com/svrooij/svrooij/raw/master/assets/social_banner.svg)](https://svrooij.io)
+[![Social banner for svrooij](https://github.com/svrooij/svrooij/raw/main/assets/social_banner.svg)](https://svrooij.io)
 
 <h1 align='center'> Hi! :wave:</h1>
 
@@ -12,11 +12,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Building a GitHub Action in .NET](https://svrooij.io/2022/06/09/building-github-action-in-net/)
 - [Protect against certificate extraction - encryption](https://svrooij.io/2022/06/01/certificate-extraction-encryption/)
 - [Protect against certificate extraction - Client credentials](https://svrooij.io/2022/05/27/certificate-extraction-client-credentials/)
 - [Extract all Azure AD admin accounts](https://svrooij.io/2022/05/17/extract-azure-admins/)
 - [Extract all users with powershell and what you should do about it](https://svrooij.io/2022/05/16/extract-all-users-with-powershell/)
-- [Deploy to Azure Static Web App with only the name](https://svrooij.io/2022/05/05/deploy-static-web-app-without-token/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
