@@ -1,8 +1,6 @@
-## Hi there 👋 I'm Stephan
+[![Social banner for svrooij](https://github.com/svrooij/svrooij/raw/master/assets/social_banner.svg)](https://svrooij.io)
 
-<!--
-**svrooij/svrooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile https://github.com/svrooij/.
--->
+<h1 align='center'> Hi! :wave:</h1>
 
 - 🤔 I’m looking for help with [node-sonos-ts](https://github.com/svrooij/node-sonos-ts)
 - :notebook: I blog at [svrooij.io](https://svrooij.io)
@@ -11,7 +9,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm Dutch, but I don't like cheese
 
-## Recent blog posts
+## My recent posts
 
 <!-- start posts -->
 - [Protect against certificate extraction - encryption](https://svrooij.io/2022/06/01/certificate-extraction-encryption/)
