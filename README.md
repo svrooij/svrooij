@@ -12,11 +12,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Federated credentials, wait what?](https://svrooij.io/2022/06/20/federated-credentials/)
 - [Building a GitHub Action in .NET](https://svrooij.io/2022/06/09/building-github-action-in-net/)
 - [Protect against certificate extraction - encryption](https://svrooij.io/2022/06/01/certificate-extraction-encryption/)
 - [Protect against certificate extraction - Client credentials](https://svrooij.io/2022/05/27/certificate-extraction-client-credentials/)
 - [Extract all Azure AD admin accounts](https://svrooij.io/2022/05/17/extract-azure-admins/)
-- [Extract all users with powershell and what you should do about it](https://svrooij.io/2022/05/16/extract-all-users-with-powershell/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
