@@ -12,11 +12,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Externalize user accounts: An introduction](https://svrooij.io/2022/07/28/externalize-user-acconts-intro/)
 - [Using a managed identity as a client credential](https://svrooij.io/2022/06/21/managed-identity-multi-tenant-app/)
 - [Federated credentials, wait what?](https://svrooij.io/2022/06/20/federated-credentials/)
 - [Building a GitHub Action in .NET](https://svrooij.io/2022/06/09/building-github-action-in-net/)
 - [Protect against certificate extraction - encryption](https://svrooij.io/2022/06/01/certificate-extraction-encryption/)
-- [Protect against certificate extraction - Client credentials](https://svrooij.io/2022/05/27/certificate-extraction-client-credentials/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
