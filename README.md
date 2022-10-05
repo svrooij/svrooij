@@ -12,11 +12,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Cancellable task with timeout](https://svrooij.io/2022/10/04/cancellable-task-with-timeout/)
 - [Create Outlook category for everyone](https://svrooij.io/2022/09/27/create-corporate-outlook-category/)
 - [Protect against SSO for Graph PowerShell](https://svrooij.io/2022/09/14/protect-against-sso-graph-powershell/)
 - [Replace an owner in all their Teams](https://svrooij.io/2022/09/13/replace-teams-owner/)
 - [Externalize user accounts: OpenID Connect](https://svrooij.io/2022/08/05/externalize-user-acconts-openid-connect/)
-- [Externalize user accounts: An introduction](https://svrooij.io/2022/07/28/externalize-user-acconts-intro/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
