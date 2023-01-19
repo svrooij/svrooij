@@ -12,11 +12,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Creating a Home Assistant component](https://svrooij.io/2023/01/18/home-assistant-component/)
 - [Extract all users with powershell and what to do about it part two](https://svrooij.io/2023/01/16/extract-all-users-with-powershell-part-two/)
 - [An introduction to cmd.ms](https://svrooij.io/2023/01/11/cmd-ms/)
 - [2022: An exciting year](https://svrooij.io/2023/01/02/this-was-2022/)
 - [Every project needs a badge](https://svrooij.io/2023/01/02/badges-badges-badges/)
-- [Proof of concept: Multi tenant managed identity](https://svrooij.io/2022/12/16/poc-multi-tenant-managed-identity/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
