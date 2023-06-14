@@ -36,7 +36,7 @@ I enjoy hackathons, if you're organizing one that might interest me give me a pi
 
 [![Graph Hacktogether entry](https://img.shields.io/badge/Graph--HackTogether-entry-6264A7?style=for-the-badge&logoColor=white&logo=Microsoft )](https://github.com/microsoft/hack-together/issues/47)
 
-A [**honorable mention**](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hack-together-microsoft-graph-and-net-winners/) for extensing the Graph SDK during the hackathon.
+A [**honorable mention**](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hack-together-microsoft-graph-and-net-winners/) for extending the Graph SDK for .NET during the hackathon.
 
 [![Teams Hacktogether entry](https://img.shields.io/badge/Teams--HackTogether-entry-6264A7?style=for-the-badge&logoColor=white&logo=MicrosoftTeams )](https://github.com/microsoft/hack-together-teams/issues/66)
 
