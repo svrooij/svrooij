@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Teams Hacktogether: Blazor](https://svrooij.io/2023/06/14/teams-hacktogether-blazor/)
+- [Teams Hacktogether: Toolkit](https://svrooij.io/2023/06/13/teams-hacktogether-toolkit/)
 - [Teams Hacktogether: Getting access](https://svrooij.io/2023/06/12/teams-hacktogether-getting-access/)
 - [Teams Hacktogether: Idea](https://svrooij.io/2023/06/12/teams-hacktogether-idea/)
 - [Nginx fault finding](https://svrooij.io/2023/03/30/nginx-errors/)
-- [Betatalks, I was their guest](https://svrooij.io/2023/03/06/betatalks-podcast/)
-- [Batching with Microsoft Graph](https://svrooij.io/2023/03/03/batching-in-microsoft-graph/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
