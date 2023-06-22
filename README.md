@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Remove PowerShell modules by name](https://svrooij.io/2023/06/21/remove-powershell-modules-by-name/)
 - [Assign additional permissions to service principal](https://svrooij.io/2023/06/19/assign-additional-permissions-to-service-principal/)
 - [Teams Hacktogether: Blazor](https://svrooij.io/2023/06/14/teams-hacktogether-blazor/)
 - [Teams Hacktogether: Toolkit](https://svrooij.io/2023/06/13/teams-hacktogether-toolkit/)
 - [Teams Hacktogether: Getting access](https://svrooij.io/2023/06/12/teams-hacktogether-getting-access/)
-- [Teams Hacktogether: Idea](https://svrooij.io/2023/06/12/teams-hacktogether-idea/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
