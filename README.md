@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Hiding in plain Graph, an issue with Azure AD Audit log](https://svrooij.io/2023/07/07/hiding-plain-graph-azure-ad-audit-issue/)
 - [Blog migrated to hugo on Static Web Apps](https://svrooij.io/2023/06/26/blog-migrated-to-hugo-on-static-web-apps/)
 - [Teams Hacktogether: Entry](https://svrooij.io/2023/06/22/teams-hacktogether-entry/)
 - [Remove PowerShell modules by name](https://svrooij.io/2023/06/21/remove-powershell-modules-by-name/)
 - [Assign additional permissions to service principal](https://svrooij.io/2023/06/19/assign-additional-permissions-to-service-principal/)
-- [Teams Hacktogether: Blazor](https://svrooij.io/2023/06/14/teams-hacktogether-blazor/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
