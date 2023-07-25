@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Fake banking security](https://svrooij.io/2023/07/24/fake-banking-security/)
 - [Configure SQL with managed identity](https://svrooij.io/2023/07/19/configure-sql-managed-identity/)
 - [VanMoof going bankrupt, what about my digital bike key?](https://svrooij.io/2023/07/17/own-stuff-cloud-dependency/)
 - [Hiding in plain Graph, an issue with Azure AD Audit log](https://svrooij.io/2023/07/07/hiding-plain-graph-azure-ad-audit-issue/)
 - [Blog migrated to hugo on Static Web Apps](https://svrooij.io/2023/06/26/blog-migrated-to-hugo-on-static-web-apps/)
-- [Teams Hacktogether: Entry](https://svrooij.io/2023/06/22/teams-hacktogether-entry/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
