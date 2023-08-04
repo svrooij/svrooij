@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Emulate Managed Identities during development](https://svrooij.io/2023/08/03/emulate-managed-identities/)
 - [Use System.Text.Json in Azure Functions](https://svrooij.io/2023/07/26/system-text-json-azure-functions/)
 - [Fake banking security](https://svrooij.io/2023/07/24/fake-banking-security/)
 - [Configure SQL with managed identity](https://svrooij.io/2023/07/19/configure-sql-managed-identity/)
 - [VanMoof going bankrupt, what about my digital bike key?](https://svrooij.io/2023/07/17/own-stuff-cloud-dependency/)
-- [Hiding in plain Graph, an issue with Azure AD Audit log](https://svrooij.io/2023/07/07/hiding-plain-graph-azure-ad-audit-issue/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
