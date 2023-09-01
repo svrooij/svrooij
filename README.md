@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Publish apps to Intune](https://svrooij.io/2023/08/31/publish-apps-to-intune/)
 - [Package apps for Intune](https://svrooij.io/2023/08/30/package-apps-intune/)
 - [Get your apps in Intune](https://svrooij.io/2023/08/30/apps-intune/)
 - [The Best GitHub workflow for a .NET app](https://svrooij.io/2023/08/09/best-github-workflow-net-app/)
 - [Emulate Managed Identities during development](https://svrooij.io/2023/08/03/emulate-managed-identities/)
-- [Use System.Text.Json in Azure Functions](https://svrooij.io/2023/07/26/system-text-json-azure-functions/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
