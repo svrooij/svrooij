@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Decrypting intunewin files](https://svrooij.io/2023/10/09/decrypting-intunewin-files/)
 - [Analysing Win32 Content Prep Tool](https://svrooij.io/2023/10/04/analysing-win32-content-prep-tool/)
 - [Compute file hash in C# asynchronously](https://svrooij.io/2023/10/03/compute-file-hash-asynchronously/)
 - [Remove platform dependency for WingetIntune](https://svrooij.io/2023/09/23/winget-intune-windows-deps/)
 - [Publish apps to Intune](https://svrooij.io/2023/08/31/publish-apps-to-intune/)
-- [Package apps for Intune](https://svrooij.io/2023/08/30/package-apps-intune/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
