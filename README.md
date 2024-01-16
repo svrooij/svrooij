@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Automate your SSH keys using GitHub](https://svrooij.io/2024/01/15/automate-ssh-with-github/)
 - [Create your first PowerShell module with C#](https://svrooij.io/2024/01/12/create-powershell-module-csharp/)
 - [Secure SSH with Windows Hello](https://svrooij.io/2024/01/01/secure-ssh-windows-hello/)
 - [Speaking at ESPC23 - Protect your API with Entra ID](https://svrooij.io/2023/12/03/speaking-espc23-protect-api-entra-id/)
 - [How do Federated credentials in GitHub Actions actually work](https://svrooij.io/2023/11/07/github-actions-federated-credentials-explained/)
-- [Creating IntuneWin files with C#](https://svrooij.io/2023/10/24/create-intunewin-file/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
