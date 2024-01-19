@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Using dependency injection in your C# PowerShell Modules](https://svrooij.io/2024/01/18/dependencies-powershell-module-csharp/)
 - [Stop asking for passwords](https://svrooij.io/2024/01/16/stop-asking-for-passwords/)
 - [Automate your SSH keys using GitHub](https://svrooij.io/2024/01/15/automate-ssh-with-github/)
 - [Create your first PowerShell module with C#](https://svrooij.io/2024/01/12/create-powershell-module-csharp/)
 - [Secure SSH with Windows Hello](https://svrooij.io/2024/01/01/secure-ssh-windows-hello/)
-- [Speaking at ESPC23 - Protect your API with Entra ID](https://svrooij.io/2023/12/03/speaking-espc23-protect-api-entra-id/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
