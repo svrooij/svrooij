@@ -21,11 +21,11 @@
 ## My recent posts
 
 <!-- start posts -->
+- [Azure SQL and Entra ID authentication, tips from the field](https://svrooij.io/2024/03/27/azure-sql-entra-id-tips/)
+- [Azure Pipelines and commit messages](https://svrooij.io/2024/03/27/azure-pipelines-commit-messages/)
 - [MVP Summit 2024](https://svrooij.io/2024/03/24/mvp-summit-2024/)
 - [Never forget the Authorize attribute](https://svrooij.io/2024/03/05/forget-authorize-attribute/)
 - [Modify a HttpClientHandler with Dependency Injection](https://svrooij.io/2024/02/27/modify-httpclienthandler-dependency-injection/)
-- [Nuke the man-in-the-middle attack](https://svrooij.io/2024/02/22/nuke-man-middle-attack/)
-- [Validate JWT with OpenID Connect](https://svrooij.io/2024/02/22/validate-jwt-openid-connect/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
