@@ -2,23 +2,31 @@
 
 <h1 align='center'> Hi! :wave:</h1>
 
-- 🤔 I’m looking for help with [node-sonos-ts](https://github.com/svrooij/node-sonos-ts)
 - :notebook: I blog at [svrooij.io][link_blog]
-- 💬 Ask me about `Azure AD`, `DOTNET`, `Home Automation` and `Sonos`
+- 💬 Ask me about `Entra ID`, `DOTNET`, `App packaging`, `Home Automation` and `Sonos`
 - 📫 How to reach me: `{firstName}@{blog-domain}`
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: **I'm Dutch, but I don't like cheese**
-- 👨‍💻 Microsoft MVP in Security (2022/2023)
+- 👨‍💻 Microsoft MVP in Security (2022/2023/...?)
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004985" target="_blank"><img src="./assets/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" width="300"></a>
 
-## Socials
+<h2 align="center">📦 Open-source packages 📦</h2>
+
+I've created several open-source packages, these are the once that keep my spare time occupied:
+
+- [WinTuner](https://wintuner.app) A PowerShell module to quickly package and deploy apps from winget to Intune. [source](https://github.com/svrooij/wingetintune)
+- [Unobtanium.Web.Proxy](https://github.com/svrooij/titanium-web-proxy) intercepting http(s) proxy, that I'm trying to reboot. Which is the base for the [Microsoft dev proxy](https://github.com/microsoft/dev-proxy)
+- [Sonos2mqtt](https://sonos2mqtt.svrooij.io) Small service that allows you to control your sonos speakers from your mqtt server.
+- All the other sonos stuff I've build [sonos-ts](https://sonos-ts.svrooij.io) sonos in typescript, [sonos-net](https://github.com/svrooij/sonos-net) sonos in dotnet and [unofficial sonos docs](https://sonos.svrooij.io)
+- [PowerShell Dependency Injection](https://github.com/svrooij/PowerShell.DependencyInjection) Want to create a PowerShell library in c#? Check out this library that gives you `ILogger` and `async` support and the ability to resolve services from dependency injection.
+
+<h2 align="center">🤝 Socials 🙌</h2>
 
 [![LinkedIn Profile][badge_linkedin]][link_linkedin]
 [![Link Mastodon][badge_mastodon]][link_mastodon]
 [![Follow on Twitter][badge_twitter]][link_twitter]
 
-## My recent posts
+<h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
 - [Authentication using certificate - Entra ID](https://svrooij.io/2024/06/05/authentication-certificate-key-vault/)
@@ -30,7 +38,7 @@
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
 
-## Hackathons
+<h2 align="center">🥷 Hackathons 🧑‍💻</h2>
 
 I enjoy hackathons, if you're organizing one that might interest me give me a ping.
 
