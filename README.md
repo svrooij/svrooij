@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [Kiota with dependency injection](https://svrooij.io/2024/07/03/kiota-dependency-injection/)
 - [Authentication using certificate - Entra ID](https://svrooij.io/2024/06/05/authentication-certificate-key-vault/)
 - [What have you been up to?](https://svrooij.io/2024/05/21/what-have-you-been-up-to/)
 - [Azure SQL and Entra ID authentication, tips from the field](https://svrooij.io/2024/03/27/azure-sql-entra-id-tips/)
 - [Azure Pipelines and commit messages](https://svrooij.io/2024/03/27/azure-pipelines-commit-messages/)
-- [MVP Summit 2024](https://svrooij.io/2024/03/24/mvp-summit-2024/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
