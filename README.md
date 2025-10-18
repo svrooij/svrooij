@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [Publish to nuget without a token](https://svrooij.io/2025/10/16/publish-nuget-token/)
 - [Secretless confidential applications](https://svrooij.io/2025/10/10/secretless-confidential-applications/)
 - [Let's talk App Roles](https://svrooij.io/2025/08/27/entra-approles/)
 - [Vibe smarter not harder](https://svrooij.io/2025/08/19/vibe-smarter-harder/)
 - [Deploy to Azure Static Web App the slim way](https://svrooij.io/2025/06/26/deploy-azure-static-web-app-slim/)
-- [Maester at ExpertsLive NL 2025](https://svrooij.io/2025/06/10/maester-expertslive-nl-2025/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
