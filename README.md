@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [OpenAPI in Dotnet 10: Number quirk](https://svrooij.io/2025/12/19/openapi-dotnet-10-number-quirk/)
 - [Do all your endpoints require authentication?](https://svrooij.io/2025/11/24/endpoints-require-autentication/)
 - [Introducing Identity Proxy](https://svrooij.io/2025/11/19/introducing-identity-proxy/)
 - [CollabDays Belgium 2025](https://svrooij.io/2025/10/20/collabdays-belgium-2025/)
 - [Publish to nuget without a token](https://svrooij.io/2025/10/16/publish-nuget-token/)
-- [Secretless confidential applications](https://svrooij.io/2025/10/10/secretless-confidential-applications/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
