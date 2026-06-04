@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [Workplace Ninjas Oslo: Identity in Production Explained](https://svrooij.io/2026/05/27/workplace-ninjas-oslo-identity-production-explained/)
 - [Organizing .NET Zuid meetup](https://svrooij.io/2026/04/26/organizing-net-zuid-meetup/)
 - [Tilburg Tech Tuesday - Fake tokens for integration testing](https://svrooij.io/2026/04/22/tilburg-tech-tuesday-fake-tokens-integration-testing/)
 - [Build a rail menu in WinUI](https://svrooij.io/2026/04/07/build-rail-menu-winui/)
 - [MVP Summit 2026: Key Insights and Highlights](https://svrooij.io/2026/03/29/mvp-summit-2026-key-insights-highlights/)
-- [Automatic efficient API Client Generation with Kiota](https://svrooij.io/2026/03/16/automatic-efficient-api-client-generation-kiota/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
