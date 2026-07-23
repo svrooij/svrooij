@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [Fido2 showdown: An Introduction](/2026/07/22/fido2-showdown-introduction/)
 - [Prevent Drivers From Installing Apps](/2026/07/21/prevent-drivers-installing-apps/)
 - [Most Valuable Professional 2026](/2026/07/16/valuable-professional-2026/)
 - [Blog Upgraded: New Features](/2026/07/15/blog-upgraded-search/)
 - [Unlocking Workcation at Microsoft Security Meetup](/2026/06/16/unlocking-workcation-microsoft-security-meetup/)
-- [Experts Live NL 2026: Workcation unlocked](/2026/06/02/experts-live-workcation-unlocked-access-packages/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
