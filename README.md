@@ -29,11 +29,11 @@ I've created several open-source packages, these are the once that keep my spare
 <h2 align="center">📝 Recent Posts 📖</h2>
 
 <!-- start posts -->
+- [Fido2 showdown: Security key form factors](/2026/09/28/fido2-showdown-form-factors/)
 - [Home Automation at .NET Zuid](/2026/09/08/home-automation-at-dotnet-zuid/)
 - [Smartify your doorbell](/2026/08/14/smartify-doorbell/)
 - [Extending Home Assistant: Custom Integration](/2026/08/11/extending-home-assistant-custom-integration/)
 - [Home Assistant: Adding PKCE support](/2026/08/11/home-assistant-adding-pkce-support/)
-- [Home Assistant: does it Matter?](/2026/08/10/home-assistant-matter/)
 <!-- end posts -->
 
 These posts are automatically updated by [dotnet-feeder](https://github.com/svrooij/dotnet-feeder)
